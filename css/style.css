@@ -223,3 +223,14 @@ button:hover {
         padding: 6px 10px;
     }
 }
+
+.habilidades li::hover {
+    background-color: #fff989;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-size: 0.9em;
+    margin: 5px;
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}

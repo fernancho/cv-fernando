@@ -224,7 +224,7 @@ button:hover {
     }
 }
 
-.habilidades li::hover {
+.habilidades ul:hover {
     background-color: #fff989;
     color: black;
     padding: 10px 15px;
